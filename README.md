@@ -3,3 +3,7 @@
 ## Assignment 1:
 
 PCAP Analysis, HAR Analysis and a simple DNS packet parser.
+
+## Assignment 2:
+
+Music Server, HTTP Server and Chat Room server
