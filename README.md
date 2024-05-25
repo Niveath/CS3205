@@ -6,4 +6,8 @@ PCAP Analysis, HAR Analysis and a simple DNS packet parser.
 
 ## Assignment 2:
 
-Music Server, HTTP Server and Chat Room server
+Music Server, HTTP Server and Chat Room server\
+
+## Assignment 3:
+
+Stop-and-Wait, Go-Back-N and Selective Repeat protocols
